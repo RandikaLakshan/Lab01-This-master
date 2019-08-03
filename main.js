@@ -19,7 +19,7 @@ const jdObject = {
 
 //=================================================
 
-var vehicleName='Nissan';
+var vehicleName='Nissan car';
 
 function printVehicleName() {
     console.log(this.vehicleName);
